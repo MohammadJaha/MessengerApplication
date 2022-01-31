@@ -5,19 +5,18 @@
 **This Application has exceeded 100Mb**  
 **You can Download Sorce Code From this Link**  
 https://drive.google.com/file/d/13jSGlFnd7M_EG_CrNpWxZSTGO8q38_Wv/view?usp=sharing  
-
   
   
    
-**Demo:**
-[![Family Grocery Application](https://user-images.githubusercontent.com/90371913/151789592-12dc88f6-1089-44e1-953d-50a82b108ab0.jpg)](https://youtu.be/BE2k_xGL9dk)  
+**Demo:**   
+[![Chat Application](https://user-images.githubusercontent.com/90371913/151795432-358e3b0d-7e9a-4f56-979e-d7882a35c30d.jpg)](https://youtu.be/26jq1GEKQRk)  
 
 
 Using **Swift**  
 
-This Code Provide Simple **IOS Application** For **Family Grocery List**
+This Code Provide Simple **IOS Application** For **Messenger**
 
-This Application Called **Family Grocery List Application**
+This Application Called **Messenger Application**
 
 This Application Provide Simple Connection to **Firebase**
 &nbsp;  
@@ -25,59 +24,82 @@ This Application Provide Simple Connection to **Firebase**
 
 **This Application Will:**
 * • Login to Firebase
-* •	Read From Firebase
+* •	Read From Firebase Using Live Data
 * •	Write to Firebase
-* •	Delete From Firebase
 * •	Save in Firebase
 * • Getting Data from Google
 * • Getting Data from Facebook
+* • Getting Data from Apple
 &nbsp;  
 &nbsp;  
 
-**This Application Contains 4 View Controllers:** 
+**This Application Contains 6 View Controllers:** 
 
 **1. SignIn View Controller:**
 *     •	Asking The User to Enter **Email** And **PassWord**
 *     •	SignIn Using Google
 *     •	SignIn Using Facebook
+*     •	SignIn Using Apple
       
-<img src="https://user-images.githubusercontent.com/90371913/151787093-6c73cfa7-60d1-4bcc-8631-113774da4f2b.png" width="320" height="660">
+<img src="https://user-images.githubusercontent.com/90371913/151797131-3c286f54-fecc-48c9-8723-63ebe2b559c5.png" width="320" height="660">
 
 &nbsp;  
 &nbsp;  
     
 **2. SignUp View Controller:**
 *     •	Asking The User to Add **Profile Image**
-*     •	Asking The User to Enter **Name**
+*     •	Asking The User to Enter **First Name**
+*     •	Asking The User to Enter **Last Name**
 *     •	Asking The User to Enter **Email**
 *     •	Asking The User to Enter **Password**
-*     •	Asking The User to Chose **Family**
       
-<img src="https://user-images.githubusercontent.com/90371913/151787808-f1fa8c3e-24db-4875-b7a5-0a27e8c7f9b0.png" width="320" height="660"> | <img src="https://user-images.githubusercontent.com/90371913/151787815-c805ffba-e548-41a1-86ae-8cdf7785569d.png" width="320" height="660">
+<img src="https://user-images.githubusercontent.com/90371913/151797367-07868d4f-0671-4cc2-91fd-de37dd64c383.png" width="320" height="660">
 
 &nbsp;  
 &nbsp;  
 
-**3. Grocery List View Controller:**
-*     •	Add New Grocery to the List
-*     •	Edit Grocery in the List
-*     •	Delete Grocey from the List
-*     •	Buy Grocery for All Family Memebrs
+**3. Conversations View Controller:**
+*     •	Display All Started Conversations
+*     •	Display Other User Name
+*     •	Display Last Message in the Conversation
+*     •	Start New Conversation
       
-<img src="https://user-images.githubusercontent.com/90371913/151788804-6c2f6ee4-c453-4ff3-bba3-a337b8fd7ed0.png" width="320" height="660">
+<img src="https://user-images.githubusercontent.com/90371913/151800105-15595830-eca7-454d-b0c8-fc5bd62b7c0c.png" width="320" height="660">
 
 &nbsp;  
 &nbsp;  
      
-**4. Family Members View Controller:**
-*     •	Display All Family Members
-*     •	Display Online Family Members
-*     •	Display Offline Family Members
-*     •	Show Family Member Profile
+**4. Chat View Controller:**
+*     •	Display All Messages
+*     •	Send New Text Message
+*     •	Send New Image
+*     •	Send New Video
+      
+<img src="https://user-images.githubusercontent.com/90371913/151801385-ca9d5e28-0747-44b5-8e51-59dd1879f4a4.png" width="320" height="660"> | <img src="https://user-images.githubusercontent.com/90371913/151801425-26ad7a3d-6a9f-4187-befa-98ed9820a31f.png" width="320" height="660">
+
+&nbsp;  
+&nbsp;  
+  
+**5. Search Usears View Controller:**
+*     •	Search User By Full Name
+*     •	Search User by First Letters of the Name
+*     •	Display User Name
+*     •	Display User Profile Image
+*     •	Start New Conversation with Selected User
+
+<img src="https://user-images.githubusercontent.com/90371913/151803067-f7b4177c-8645-467d-a7d7-22ade43189a0.png" width="320" height="660">
+
+&nbsp;  
+&nbsp;  
+
+**6. Profile View Controller:**
+*     •	Display Profile Image
+*     •	Display User Name
+*     •	Display User Email
 *     •	SignOut
       
-<img src="https://user-images.githubusercontent.com/90371913/151789368-8d45e5c6-f76b-4044-bc62-9ff304f51461.png" width="320" height="660"> | <img src="https://user-images.githubusercontent.com/90371913/151792415-f19ace8b-a086-4ea9-a0e3-174cbd18de59.png" width="320" height="660">
+<img src="https://user-images.githubusercontent.com/90371913/151801829-83dbb710-995d-4f02-bd03-42b17211a5ff.png" width="320" height="660">
 
 &nbsp;  
 &nbsp;  
-     
+  
